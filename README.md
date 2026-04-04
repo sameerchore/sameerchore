@@ -20,13 +20,10 @@ I build practical software projects and keep growing through hands-on work in we
 ![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032)
 
-## Featured Work
+## Currently Wokring on:
 
 - [OpenVTC MERN Project](https://github.com/sameerchore/openvtc-MERN-noneyet)
-- [DSA Bootcamp in Java](https://github.com/sameerchore/DSA-Bootcamp-Java)
-- [DSA in C++](https://github.com/sameerchore/DSA-CPP)
-- [Go Web Server](https://github.com/sameerchore/GO-WebServer)
-- [Plain JavaScript Virtual Assistance](https://github.com/sameerchore/Plain-js-Virtual-Assistance)
+- [Virtual Assistance](https://github.com/sameerchore/Plain-js-Virtual-Assistance)
 - [Coding Interview Questions](https://github.com/sameerchore/Coding-Interview-Questions)
 
 ## Current Focus
