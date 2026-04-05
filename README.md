@@ -2,12 +2,16 @@
 
 🚀 **Developer focused on building real-world projects and mastering problem-solving.**
 
+---
+
 ## 💡 About Me
 
 * 💻 Full-stack & backend development enthusiast
 * 🧠 Strong focus on **Data Structures & Algorithms**
 * 📈 Constantly improving through **hands-on projects**
 * 🛠️ Writing clean, scalable, and maintainable code
+
+---
 
 ## ⚙️ Tech Stack
 
