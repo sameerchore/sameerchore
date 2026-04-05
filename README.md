@@ -42,11 +42,4 @@
 * Building impactful projects
   
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=sameerchore\&show_icons=true\&theme=transparent)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sameerchore\&layout=compact\&theme=transparent)
-
-
-
 > ⚡ *“Build. Learn. Repeat.”*
