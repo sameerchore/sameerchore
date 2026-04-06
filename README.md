@@ -26,11 +26,11 @@
 
 ---
 
-## 🚧 Current Projects:
+## 🚧 Current Working on:
 
 * 🔗 [OpenVTC MERN Project](https://github.com/sameerchore/openvtc-MERN-noneyet)
 * 🔗 [Virtual Assistant (JS)](https://github.com/sameerchore/Plain-js-Virtual-Assistance)
-* 🔗 [DSA Practice Repo](https://github.com/sameerchore/Coding-Interview-Questions)
+  
 
 ---
 
