@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sameer Chore
 
-🚀 **Developer focused on building real-world projects and mastering problem-solving.**
+ **Developer focused on building real-world projects and mastering problem-solving.**
 
 ---
 
