@@ -1,19 +1,14 @@
-# 👋 Hi, I'm Sameer Chore
+# I'm Sameer Chore
 
  **Developer focused on building real-world projects and mastering problem-solving.**
-
----
-
-## 💡 About Me
 
 * 💻 Full-stack & backend development enthusiast
 * 🧠 Strong focus on **Data Structures & Algorithms**
 * 📈 Constantly improving through **hands-on projects**
 * 🛠️ Writing clean, scalable, and maintainable code
 
----
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge\&logo=javascript)
 ![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge\&logo=node.js)
@@ -25,17 +20,14 @@
 ![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge\&logo=css3)
 ![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge\&logo=git)
 
----
 
-## 🚧 Currently Working on:
 
-* 🔗 [OpenVTC rust Project](https://github.com/sameerchore/openvtc-MERN-noneyet)
-* 🔗 [Virtual Assistant (JS)](https://github.com/sameerchore/Plain-js-Virtual-Assistance)
-  
+## Currently Working on:
 
----
+* 🔗 [webpack](https://github.com/webpack)
 
-## 🎯 Current Focus
+
+## Current Focus
 
 * Backend development mastery
 * Writing clean & optimized code
