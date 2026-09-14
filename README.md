@@ -28,11 +28,11 @@ b.tech cse @ sggsie&t, nanded — third year
 exploring:
 ├── software development and clean system design
 ├── ai/ml, one model and one dataset at a time
-├── open-source, reading code before writing it
-└── problem solving, daily reps over big leaps
+├── open-source, reading code before writing it.
+└── Solving daily and delivering meaningful 
 
 currently:
-└── building the projects and write-ups that will fill this README in
+└── Currently focusing on webpack contribution and grinding DSA
 ```
 
 <img src="assets/divider.svg" width="100%" alt="" />
