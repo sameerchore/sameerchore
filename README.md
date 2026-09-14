@@ -75,12 +75,12 @@ Open source is how I'm learning to read other people's code, and problem solving
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sameerchore&show_icons=true&hide_border=true&bg_color=00000000&title_color=9953EA&icon_color=9953EA&text_color=C79DF1&ring_color=9953EA" width="49%" alt="Sameer's GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameerchore&layout=compact&hide_border=true&bg_color=00000000&title_color=9953EA&text_color=C79DF1&langs_count=8" width="49%" alt="Most used languages" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=sameerchore&show_icons=true&hide_border=true&bg_color=00000000&title_color=9953EA&icon_color=9953EA&text_color=C79DF1&ring_color=9953EA" width="49%" alt="Sameer's GitHub stats" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sameerchore&layout=compact&hide_border=true&bg_color=00000000&title_color=9953EA&text_color=C79DF1&langs_count=8" width="49%" alt="Most used languages" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sameerchore&bg_color=00000000&color=9953EA&line=9953EA&point=F2EBFA&area=true&area_color=9953EA&hide_border=true&custom_title=Contribution%20activity&radius=6" width="98%" alt="Contribution activity" />
+<img src="https://streak-stats.demolab.com?user=sameerchore&hide_border=true&background=00000000&ring=9953EA&fire=9953EA&currStreakLabel=9953EA&sideLabels=C79DF1&dates=C79DF1" width="98%" alt="GitHub contribution streak" />
 
 </div>
 
