@@ -69,22 +69,6 @@ Open source is how I'm learning to read other people's code, and problem solving
 <br/>
 <img src="https://img.shields.io/badge/Machine%20Learning-8624DB?style=flat-square&logo=scikitlearn&logoColor=ECDDFD" /> <img src="https://img.shields.io/badge/NumPy%20%2F%20Pandas-7B22BF?style=flat-square&logo=numpy&logoColor=ECDDFD" /> <img src="https://img.shields.io/badge/Deep%20Learning-6E1FA3?style=flat-square&logo=pytorch&logoColor=DFC6FA" />
 
-<img src="assets/divider.svg" width="100%" alt="" />
-
-## By the numbers
-
-<div align="center">
-
-<img src="https://github-readme-stats-fast.vercel.app/api?username=sameerchore&show_icons=true&hide_border=true&bg_color=00000000&title_color=9953EA&icon_color=9953EA&text_color=C79DF1&ring_color=9953EA" width="49%" alt="Sameer's GitHub stats" />
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sameerchore&layout=compact&hide_border=true&bg_color=00000000&title_color=9953EA&text_color=C79DF1&langs_count=8" width="49%" alt="Most used languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=sameerchore&hide_border=true&background=00000000&ring=9953EA&fire=9953EA&currStreakLabel=9953EA&sideLabels=C79DF1&dates=C79DF1" width="98%" alt="GitHub contribution streak" />
-
-</div>
-
-
 <div align="center">
 
 <img src="assets/footer.svg" width="100%" alt="Break things. Build better." />
