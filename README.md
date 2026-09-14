@@ -8,8 +8,6 @@
 
 <br/>
 
-<a href="https://github.com/sameerchore"><img src="https://img.shields.io/badge/GITHUB-9953EA?style=flat-square&logo=github&logoColor=140A1F" alt="GitHub" /></a> <img src="https://img.shields.io/github/followers/sameerchore?label=FOLLOWERS&style=flat-square&color=7B22BF&labelColor=421249" alt="Followers" /> <a href="mailto:REPLACE_WITH_YOUR_EMAIL"><img src="https://img.shields.io/badge/EMAIL-561971?style=flat-square&logo=gmail&logoColor=D2B1F6" alt="Email" /></a>
-
 <!--
   Add more badges once you have the links ready — copy a line, swap the URL and label:
   <a href="https://linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LINKEDIN-6E1FA3?style=flat-square&logo=linkedin&logoColor=ECDDFD" alt="LinkedIn" /></a>
@@ -49,33 +47,7 @@ Open source is how I'm learning to read other people's code, and problem solving
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## Selected work
-
-<!--
-  Replace the placeholder rows below with your actual projects. Keep the format:
-  short name • what it does in one line • the real stack you used.
-  Delete this comment once you've filled it in.
--->
-
-| Project | What it does | Stack |
-| :-- | :-- | :-- |
-| *(add project name)* | *(one line on what it does and why it's worth a look)* | *(the real stack you built it with)* |
-| *(add project name)* | *(one line on what it does and why it's worth a look)* | *(the real stack you built it with)* |
-| *(add project name)* | *(one line on what it does and why it's worth a look)* | *(the real stack you built it with)* |
-
-<details>
-<summary><b>More things I've built</b></summary>
-
 <br/>
-
-| Project | What it does |
-| :-- | :-- |
-| *(add smaller project)* | *(short description)* |
-| *(add smaller project)* | *(short description)* |
-
-</details>
-
-<img src="assets/divider.svg" width="100%" alt="" />
 
 ## Stack
 
@@ -112,17 +84,8 @@ Open source is how I'm learning to read other people's code, and problem solving
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt="" />
 
 <div align="center">
-
-<code>third-year student, open to learning in public and collaborating on open-source</code>
-
-<br/><br/>
-
-<a href="https://github.com/sameerchore"><img src="https://img.shields.io/badge/github.com%2Fsameerchore-9953EA?style=for-the-badge&logoColor=140A1F" alt="GitHub profile" /></a>
-
-<br/>
 
 <img src="assets/footer.svg" width="100%" alt="Break things. Build better." />
 
