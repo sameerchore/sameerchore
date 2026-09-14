@@ -37,7 +37,7 @@ currently:
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## About
+## ✦ About me
 
 Third-year CSE undergrad at SGGSIE&T, Nanded. I'd rather understand why something works than memorise that it does, and that's shaped how I spend most of my time.
 
@@ -49,7 +49,7 @@ Open source is how I'm learning to read other people's code, and problem solving
 
 <br/>
 
-## Stack
+## ⚡ Tech stack
 
 <!--
   This is a starter list based on a typical TY CSE curriculum plus your stated interests.
@@ -57,21 +57,21 @@ Open source is how I'm learning to read other people's code, and problem solving
   shields.io has a badge for almost everything: https://shields.io
 -->
 
-**Languages**
+**◆ Languages**
 <br/>
 <img src="https://img.shields.io/badge/C-9953EA?style=flat-square&logo=c&logoColor=140A1F" /> <img src="https://img.shields.io/badge/C++-8F3BE3?style=flat-square&logo=cplusplus&logoColor=140A1F" /> <img src="https://img.shields.io/badge/Python-8624DB?style=flat-square&logo=python&logoColor=ECDDFD" /> <img src="https://img.shields.io/badge/Java-7B22BF?style=flat-square&logo=openjdk&logoColor=ECDDFD" /> <img src="https://img.shields.io/badge/JavaScript-6E1FA3?style=flat-square&logo=javascript&logoColor=DFC6FA" />
 
-**Tools and platforms**
+**◆ Tools & platforms**
 <br/>
 <img src="https://img.shields.io/badge/Git-621C87?style=flat-square&logo=git&logoColor=DFC6FA" /> <img src="https://img.shields.io/badge/GitHub-561971?style=flat-square&logo=github&logoColor=D2B1F6" /> <img src="https://img.shields.io/badge/Linux-4B155B?style=flat-square&logo=linux&logoColor=D2B1F6" /> <img src="https://img.shields.io/badge/VS%20Code-421249?style=flat-square&logo=visualstudiocode&logoColor=C79DF1" />
 
-**Currently learning**
+**◆ Currently exploring**
 <br/>
 <img src="https://img.shields.io/badge/Machine%20Learning-8624DB?style=flat-square&logo=scikitlearn&logoColor=ECDDFD" /> <img src="https://img.shields.io/badge/NumPy%20%2F%20Pandas-7B22BF?style=flat-square&logo=numpy&logoColor=ECDDFD" /> <img src="https://img.shields.io/badge/Deep%20Learning-6E1FA3?style=flat-square&logo=pytorch&logoColor=DFC6FA" />
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## By the numbers
+## ◈ By the numbers
 
 <div align="center">
 
